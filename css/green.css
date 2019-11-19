@@ -1,0 +1,19 @@
+
+.btn-custom:hover,.btn-custom:active,.btn-custom:focus,header .main-menu > li.active > a,
+header .main-menu > li a:hover,.content h1 span,.portfolio-filters li:hover,.portfolio-filters li.active,
+.sp-name,#cformSuccessMsg{
+	color: #1abc9c !important;
+}
+.btn-custom,header .header-logo,a.elemadded,.overlay,.social-btn:hover,.social-btn:focus,.btn-social-sub:hover,.back-to-top{
+	background-color: #1abc9c;
+}
+.btn-custom,.btn-custom:hover,.btn-custom:active,.btn-custom:focus{
+  border: 2px solid #1abc9c;
+}
+.contact input:focus,.contact textarea:focus,.contact input:active,.contact textarea:active,.btn-social-sub:hover{
+  border: 1px solid #1abc9c;
+}
+.progress-custom-color {
+  background: #77EFD8;
+}
+
